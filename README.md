@@ -1,8 +1,8 @@
-#C Programs
+<h1>C Programs</h1>
 
 A collection of basic to intermediate C programs for practice and learning. This repository contains simple, easy-to-understand programs covering fundamental concepts such as loops, functions, arrays, conditionals, and file handling.
 
-#Programs Included
+<h2>Programs Included</h2>
 
 Simple Calculator
 Perform basic arithmetic operations (+, -, *, /, %) using switch-case and functions.
@@ -19,43 +19,41 @@ Input marks for multiple students, calculate total and average, and display Pass
 File Handling – Save & Read Notes
 Write notes to a file and read them back. Introduces file input/output in C.
 
-How to Use
+<h2>How to Use</h2>
 
-Clone the repository
+<b>Clone the repository</b>
 
 git clone https://github.com/<your-username>/C-programs.git
 
 
-Navigate to the folder
+<b>Navigate to the folder</b>
 
 cd C-programs
 
 
-Compile and run any program
+<b>Compile and run any program</b>
 
 gcc program_name.c -o program_name
 ./program_name
 
-Requirements
+<h2>Requirements</h2>
 
 C compiler (e.g., gcc)
 
 Basic knowledge of C programming
 
-Learning Outcomes
+<h2>Learning Outcomes</h2>
 
 By practicing these programs, you will learn:
 
-Using loops and conditional statements effectively.
+<ul>
+  <li>Using loops and conditional statements effectively.</li>
+  <li>Writing and calling functions in C.</li>
+  <li>Handling arrays and calculating totals/averages.</li>
+  <li>Generating random numbers and building simple games.</li>
+  <li>Reading from and writing to files.</li>
+</ul>
 
-Writing and calling functions in C.
+<h2>Author</h2>
 
-Handling arrays and calculating totals/averages.
-
-Generating random numbers and building simple games.
-
-Reading from and writing to files.
-
-Author
-
-Arzoo Mansuri – Student and C programming enthusiast.
+<b>Arzoo Mansuri</b> – Student and C programming enthusiast.
